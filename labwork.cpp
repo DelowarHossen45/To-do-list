@@ -60,6 +60,18 @@ void Delete(int x)
 	listSize-=1;
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
 int main()
 {
    int choice = 0;
