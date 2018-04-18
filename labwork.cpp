@@ -8,6 +8,7 @@ struct list
    string description;
    string Date;
 };
+
 struct list data[100];
 bool Add_in_file(string name,string description, string Date)
 {
